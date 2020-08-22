@@ -8,4 +8,3 @@ function forEach(array, action) {
   // → Foma
   // → Granfalloon
 
-  sdfkjsdkfjsdfsdkj
